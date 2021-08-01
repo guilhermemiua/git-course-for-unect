@@ -1,5 +1,4 @@
-# Curso de Git e Github da Unect
-Curso de Git e Github apresentado para os membros da Unect (Empresa Júnior dos cursos de Computação da UTFPR - Câmpus Cornélio Procópio)
+# Git and Github course for Unect Jr. (Junior enterprise for I.T. courses of UTFPR)
 
-Link da apresentação: https://docs.google.com/presentation/d/1TCTsaWOWTO_6IGhXr8MX6IfOGL0diVdMUgZGFbF7DRI/edit?usp=sharing
+Presentation link: https://docs.google.com/presentation/d/1TCTsaWOWTO_6IGhXr8MX6IfOGL0diVdMUgZGFbF7DRI/edit?usp=sharing
 
